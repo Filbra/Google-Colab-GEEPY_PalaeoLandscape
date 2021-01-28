@@ -1,7 +1,8 @@
-# Google-Colab
 This Python script code was developed by dr. F. Brandolini and G. Domingo-Ribas to accompany the paper: *Brandolini F., Domingo-Ribas G., 
 Zerboni A. & Turner S. "A Google Earth Engine-enabled Python approach to improve identification of anthropogenic palaeo-landscape features"*, 
 submitted to *Open Research Europe*, 20XX.
+
+## Google-Colab
 
 The Sentinel 2 (S2) satellite data were accessed through the Python [1] module geemap [2] in Colab [3], a serverless Jupyter notebook computational environment 
 for interactive development [4]. The native GEE Python API has relatively limited functionality for visualizing results but the geemap Python module was created 
@@ -10,7 +11,7 @@ Spectral Decomposition (SD) techniques. Each image was exported in Geo.TIFF form
 Count Cut tool. Finally, the figures presented in this paper were generated in the QGIS Layout Editor. The Python modules rasterio [5] and matplotlib [6] 
 were used respectively to create individual plots for each band of the raster and histograms of their values.
 
-Refernces
+## References
 
 1. Python Software Foundation. Python Language Reference. 2020. Available: http://www.python.org
 2. Wu Q. geemap: A Python package for interactive mapping with Google Earth Engine. Journal of Open Source Software. 2020;5: 2305.
@@ -23,6 +24,6 @@ Refernces
 7. Hunter JD. Matplotlib: A 2D Graphics Environment. Comput Sci Eng. 2007;9: 90–95.
 
 
-Acknowledgments
+## Acknowledgments
 The authors thank Dr Hector Orengo (Catalan Institute of Classical Archaeology, Tarragona - Spain) and Prof. Qiusheng Wu (The University of Tennessee, 
 Knoxville - USA) for their suggestions during the development of the script code.
