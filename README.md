@@ -11,7 +11,7 @@ Spectral Decomposition (SD) techniques. Each image was exported in Geo.TIFF form
 Count Cut tool. Finally, the figures presented in this paper were generated in the QGIS Layout Editor. The Python modules rasterio [5] and matplotlib [6] 
 were used respectively to create individual plots for each band of the raster and histograms of their values.
 
-## Cite 
+## Citing 
 
 The code has been deposited on Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4384105.svg)](https://doi.org/10.5281/zenodo.4384105)
