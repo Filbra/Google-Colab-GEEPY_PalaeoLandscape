@@ -13,8 +13,7 @@ were used respectively to create individual plots for each band of the raster an
 
 ## Citing 
 
-The code has been deposited on Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4384105.svg)](https://doi.org/10.5281/zenodo.4384105)
+The code has been deposited on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4384105.svg)](https://doi.org/10.5281/zenodo.4384105)
 
 Please, cite as: *Filippo Brandolini, & Guillem Domingo-Ribas. (2020, December 22). GEEPY_PalaeoLandscape (Version 1.0.0). Open Research Europe. Zenodo. http://doi.org/10.5281/zenodo.4384105*
 
